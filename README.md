@@ -1,14 +1,18 @@
 
 # Bioinformatics_journey
 **ICIPE_BIOINFORMATICS_INTERSHIP**
+***
 
  Hello and welcome, My name is Samuel mwasya and welcome to my GitHub, I will be updating my progress here.
  
-**Vision**
+## **Vision**
+***
 
 To to apply bioinformatics skills in the technical field of bioinformatics analysis.
 
-**Objectives**
+
+## **Objectives**
+
 
 (i) Understand all statistical softwares involved in bioinformatics.
 
