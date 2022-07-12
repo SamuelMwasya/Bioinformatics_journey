@@ -22,3 +22,5 @@ To to apply bioinformatics skills in the technical field of bioinformatics analy
 
 (iv) Work with collaborators at icipe towards the main goal.
 
+
+
