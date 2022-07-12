@@ -3,7 +3,12 @@
 **ICIPE_BIOINFORMATICS_INTERSHIP**
 ***
 
- Hello and welcome, My name is Samuel mwasya and welcome to my GitHub, I will be updating my internship progress.
+ Hello and welcome,  
+ My name is Samuel mwasya, a data geek, I have previously participated on conducting various research project as a data analyst.
+ 
+ Ready to venture into a career journey of Mathematical sequencing.
+ 
+ On this nertwork will be updating my Bioinformatics internship progress at *Icipe*.
  
 ## Vision
 ***
@@ -12,7 +17,7 @@ To to be able to apply bioinformatics skills in the technical field of bioinform
 ***
 ## Mission
 Gain major skills required for bioinformatics research and projects.
-
+***
 
 ## Objectives
 
@@ -30,6 +35,6 @@ Gain major skills required for bioinformatics research and projects.
 * To be able to actively partcipate on programs aimed for addressing climate chnage in the sub-sahara.
 
 ***
-**The journey bengins now**
+*The journey bengins now!!*
 
 
