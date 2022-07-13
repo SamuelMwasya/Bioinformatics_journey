@@ -3,36 +3,72 @@
 **ICIPE_BIOINFORMATICS_INTERSHIP**
 ***
 
- Hello and welcome,  
- My name is Samuel mwasya, a data geek, I have previously participated on conducting various research project as a data analyst.
+ Hello and welcome, 
+ My name is Samuel mwasya, currently I am currently undertaking a four-months bioinformatics internship at International Centre for Insects' Physiology and Ecology *(icipe)*.
  
- Ready to venture into a career journey of Mathematical sequencing.
+ I am ready to kickstart my career journey of becoming a Bioinformatician.
  
- On this nertwork will be updating my Bioinformatics internship progress at *Icipe*.
+
  
 ## Vision
 ***
 
-To to be able to apply bioinformatics skills in the technical field of bioinformatics analysis and research.
+To become a multidisciplinary Bioinformatician.
 ***
 ## Mission
-Gain major skills required for bioinformatics research and projects.
+To understand various statistical software and technical skills required to become a higher level expertise in the field of  bioinformatics. 
+
+To apply my passion for research and problem solving using data into the field of bioinformatics.
 ***
+# ROADMAP
+## MILESTONES
 
-## Objectives
+### Short-term 
+
+1. To be able to create a repository in GitHub using Markdown and update often.
+2. To understand and used markdown in all my projects, major skills including, 
+    
+   * How to fork.
+   * How to pull and push a request.
+   * How to add collaborator to my project including other key areas.
+
+3. Use other graphic user interface neccesarry for bioinformatics such as Linux, shell and others as offered by my suoervisors at *icipe*.
+4. Learning statistical software used by bioinformaticians in their field.
+5. Attending all task asigned to me either individually and group work.
+6. Submit assignments on time.
+7. Meet more scientist and gain knowledge from them through webnars and one on one talks.
+
+### Medium-termed
+1. To be able to conduct a research project using various bioinformatics tools learned during the intership.
+3. To confidently analyze different set of biodata using stattical software.
+4. Gain more knowledge on proffessional CV writting, motivation letter and confidence in interviews and public speaking.
+5. To able to  competetively apply for grants/ scholrship further studies that is, Msc/ PhD.
+
+### Long-termed
+
+1. To conduct a research project for publishing.
+2. Confidently Analyze huge biological data sets from different fields such as, medical fields, academic research.
+3. To be able to actively participate in programs aimed for addressing climate chnage in the sub-sahara.
+4. To train other upcoming scientists and guide them to achieving their goals.
 
 
-* To understand and use all statistical softwares involved in bioinformatics.
 
-* To make maximum use of resources available.
 
-* To actively partcipate and complete all assignment and projects assigned when at **Icipe**.
+   
 
-* To work with collaborators at icipe towards the main goal.
+## Skills to gain.
 
-* To be able to train more peers.
+Programming languages such as R, Phython.
 
-* To be able to actively partcipate on programs aimed for addressing climate chnage in the sub-sahara.
+Linux, GitHub.
+
+Team building.
+
+Public speaking.
+
+Team work.
+
+
 
 ***
 *Bioinformatics its not all about troubleshooting!! dont forget to have cup of coffee on your working bench.*
