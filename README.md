@@ -1,6 +1,6 @@
 
 # Bioinformatics_journey
-**ICIPE_BIOINFORMATICS_INTERSHIP**
+**ICIPE_BIOINFORMATICS_INTERNSHIP**
 ***
 
  Hello and welcome, 
