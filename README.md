@@ -10,10 +10,14 @@
  
 
  
-## Vision
+## Career Vision
 ***
+To become a multidisciplinary Bioinformatician specializing in systems biology.
 
-To become a multidisciplinary Bioinformatician.
+### Vision as per this Internship
+
+To understand different approaches to biological dataset depending on their area of conern using appropriate tools.
+
 ***
 ## Mission
 To understand various statistical software and technical skills required to become a higher level expertise in the field of  bioinformatics. 
