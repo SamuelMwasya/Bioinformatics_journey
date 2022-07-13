@@ -84,6 +84,6 @@ Team work collaboration.
 
 
 ***
-*Bioinformatics its not all about troubleshooting!! dont forget to have cup of coffee on your working bench.*
+*Bioinformatics its not all about troubleshooting!! please have a cup of coffee on your working bench!.*
 
 
