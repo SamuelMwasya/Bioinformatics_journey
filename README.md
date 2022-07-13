@@ -20,7 +20,7 @@ Understand how to develop mathematical models to augment human reasoning and acc
 
 To understand different approaches to biological dataset and redesigning datatypes depending on their area of conern and needs using appropriate tools.
 
-To be able to come up with a pipeline for data processing mechanisms using Python.
+.
 
 ***
 ## Mission
@@ -51,18 +51,18 @@ To apply my passion for research and problem solving using data into the field o
 ### Medium-termed
 1. To be able to conduct a research project using various bioinformatics tools learned during the intership.
 2. Understand more about genomics.
-3. To confidently analyze different set of biodata using stattical software.
-4. Gain more knowledge on proffessional CV writting, motivation letter and confidence in interviews and public speaking.
-5. To able to  competetively apply for grants/ scholrship further studies that is, Msc/ PhD.
+3. Understand how to apply statistical knowledge in genomic data analysis. 
+4. To confidently analyze different set of biodata using stattical software.
+5. Gain more knowledge on proffessional CV writting, motivation letter and confidence in interviews and public speaking.
+6. To be able to  competetively apply for grants/ scholarship further studies that is, Msc/ PhD.
 
 ### Long-termed
 
 1. Acquire more knowledge in Machine learning and data science.
 2. To conduct a research project for publishing.
 3. Confidently Analyze huge biological data sets from different fields such as, medical fields, academic research.
-4. To be able to actively participate in programs aimed for addressing climate chnage in the sub-sahara.
-5. To train other upcoming scientists and guide them to achieving their goals.
-
+4. To train other upcoming scientists and guide them to achieving their goals.
+5. To be able to come up with a pipeline for data processing mechanisms using Python.
 
 
 
