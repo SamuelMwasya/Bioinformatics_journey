@@ -12,7 +12,7 @@
  
 ## Career Vision
 
-To become a multidisciplinary Bioinformatician for developing mathematical models and innovative in technology and computation.
+To become a multidisciplinary Bioinformatician skilled in  developing mathematical models and innovativation in biology based technology and computation.
 
 ### Vision to be achieved during the Internship
 
@@ -20,13 +20,13 @@ Understand how to develop mathematical models to augment human reasoning and acc
 
 To understand different approaches to biological dataset and redesigning datatypes depending on their area of conern and needs using appropriate tools.
 
-.
+
 
 ***
 ## Mission
-To understand various statistical software and technical skills required to become a higher level expertise in the field of  bioinformatics. 
+To understand various statistical software and technical skills required to become a higher level expertise in the field of  bioinformatics as well as developing mathematical models. 
 
-To apply my passion for research and problem solving using data into the field of bioinformatics.
+To use my passion for research and statistics into the field of bioinformatics.
 
 
 ***
