@@ -35,6 +35,6 @@ Gain major skills required for bioinformatics research and projects.
 * To be able to actively partcipate on programs aimed for addressing climate chnage in the sub-sahara.
 
 ***
-*The journey bengins now!!*
+*Bioinformatics its not all about troubleshooting!! dont forget to have cup of coffee on your working bench.*
 
 
